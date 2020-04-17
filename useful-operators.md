@@ -94,5 +94,3 @@ float(result)
 int(result)
 result = int(input('How old are you?'))
 ```
-
-hey katrina! you're on github forever now!
