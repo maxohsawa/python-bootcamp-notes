@@ -1,5 +1,7 @@
 # String Formatting
 
+## upper() and lower()
+
 ```
 x = 'Hello World'
 x.upper()
@@ -7,11 +9,21 @@ x.upper()
 # .lower()
 ```
 
+## split()
+
 ```
 x = 'Hello World'
 x.split()
 # ['Hello', 'World']
 # defaults to whitespace
+```
+
+## join()
+
+```
+mylist = ['Hello','World']
+print(' '.join(mylist))
+# 'Hello World'
 ```
 
 # Print Formatting
