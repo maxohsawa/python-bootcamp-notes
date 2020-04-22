@@ -1,4 +1,4 @@
-# Useful Operators
+# useful operators
 
 ## range
 

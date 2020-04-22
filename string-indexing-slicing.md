@@ -1,6 +1,6 @@
-# String Indexing and Slicing
+# string indexing and slicing
 
-## Index, negative indexing
+## index, negative indexing
 ```
 mystring = 'Hello'
 
@@ -11,7 +11,7 @@ mystring[-2]
 # 'l'
 ```
 
-## Slicing
+## slicing
 ```
 mystring = 'Hello'
 

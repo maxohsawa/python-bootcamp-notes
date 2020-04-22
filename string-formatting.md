@@ -1,4 +1,4 @@
-# String Formatting
+# string formatting
 
 ## upper() and lower()
 
@@ -26,7 +26,7 @@ print(' '.join(mylist))
 # 'Hello World'
 ```
 
-# Print Formatting
+# print formatting
 
 ## format()
 

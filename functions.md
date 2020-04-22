@@ -1,4 +1,4 @@
-# Functions
+# functions
 
 ```
 def name_of_function(name):

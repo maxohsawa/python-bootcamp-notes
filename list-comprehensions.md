@@ -1,4 +1,4 @@
-# List Comprehensions
+# list comprehensions
 
 ```
 mystring = 'hello'

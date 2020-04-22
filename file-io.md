@@ -1,4 +1,4 @@
-# File IO
+# file io
 
 ```
 %%writefile myfile.txt

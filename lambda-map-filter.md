@@ -1,6 +1,6 @@
-# Lambda Expressions, Map, and Filter
+# lambda expressions, map, and filter
 
-## Maps
+## maps
 
 ```
 def square(num):
@@ -28,7 +28,7 @@ list(map(splicer,names))
 # ['EVEN','E','S']
 ```
 
-## Filters
+## filters
 
 ```
 def check_even(num):
@@ -40,9 +40,9 @@ list(filter(check_even,mynums))
 # [2,4,6]
 ```
 
-## Lambda Expressions
+## lambda expressions
 
-### Lambda Map
+### lambda map
 
 ```
 def square(num):
@@ -64,7 +64,7 @@ list(map(lambda num:num**2, mynums))
 # [1,4,9,16,25]
 ```
 
-### Lambda Filter
+### lambda filter
 
 ```
 mynums = [1,2,3,4,5,6]

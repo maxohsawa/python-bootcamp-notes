@@ -1,4 +1,4 @@
-# Float Formatting
+# float formatting
 
 ```
 result = 100/777

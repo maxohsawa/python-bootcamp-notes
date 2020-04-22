@@ -1,6 +1,6 @@
-# List Methods
+# list methods
 
-## Append
+## append
 
 ```
 new_list = ['one', 'two', 'three', 'four']
@@ -8,7 +8,7 @@ new_list.append('five')
 # ['one', 'two', 'three', 'four', 'five']
 ```
 
-## Pop
+## pop
 
 ```
 new_list = ['one', 'two', 'three', 'four']
@@ -20,7 +20,7 @@ num = new_list.pop(0)
 # 'one'
 ```
 
-## Sort
+## sort
 
 ```
 new_list = ['a','e','x','b','c']
@@ -34,7 +34,7 @@ num_list.sort()
 # [1,3,4,8]
 ```
 
-## Reverse
+## reverse
 
 ```
 num_list = [4,1,8,3]
