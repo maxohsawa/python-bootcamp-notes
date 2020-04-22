@@ -118,3 +118,6 @@ ask_for_int()
 # Yes thank you
 # End of try, except, finally
 ```
+
+if you want to create your own exceptions:
+https://www.programiz.com/python-programming/user-defined-exception
