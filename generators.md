@@ -100,3 +100,19 @@ next(s_iter)
 next(s_iter)
 # e
 ```
+## generator comprehension
+
+```
+my_list = [1,2,3,4,5]
+
+gencomp = (item for item in my_list if item > 3)
+
+print(gencomp)
+
+for item in gencomp:
+    print(item)
+
+# <generator object>
+# 4
+# 5
+```
