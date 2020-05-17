@@ -76,3 +76,10 @@ decorated_function()
 @new_decorator
 def function_that_needs_decorator():
 	print("I want to be decorated")
+
+function_that_needs_decorator()
+
+# Some extra code, before original function
+# I want to be decorated
+# Some extra code, after original function
+```
