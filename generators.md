@@ -1,5 +1,5 @@
 # generators
-<br><br><br><br><br><br><br>
+
 ## example of problem
 
 ```
